@@ -3,7 +3,7 @@
 ## 📌 Overview
 This repository contains a collection of incident response reports created from a SOC Level 1 analyst perspective.
 
-Each incident demonstrates alert investigation, evidence correlation, incident classification, escalation decisions, documentation, and shift handover.
+Each incident demonstrates alert investigation, evidence correlation, incident classification, escalation decisions, documentation.
 
 ---
 
