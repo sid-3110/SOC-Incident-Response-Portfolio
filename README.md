@@ -13,7 +13,6 @@ Each incident demonstrates alert investigation, evidence correlation, incident c
 - Phishing investigation
 - Malware behavior analysis
 - False positive handling
-- SOC documentation & handover
 - MITRE ATT&CK mapping (high level)
 
 ---
